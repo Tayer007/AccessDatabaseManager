@@ -62,4 +62,4 @@ After installation, you can launch the application from:
 - Verify database file permissions
 
 ## Contact
-![Contact me!](https://fourat.pythonanywhere.com/contact.html)
+[Contact me!](https://fourat.pythonanywhere.com/contact.html)

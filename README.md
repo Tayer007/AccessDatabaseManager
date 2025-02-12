@@ -22,7 +22,7 @@ A simple tool to work with Microsoft Access databases without needing Microsoft 
   - `loader.exe`
 
 ## Test Database
-We've included `DB.accdb` to help you explore the app. Just open it and start playing around!
+I've included `DB.accdb` to help you explore the app. Just open it and start playing around!
 
 ## What You Can Do
 - Switch between different database tables

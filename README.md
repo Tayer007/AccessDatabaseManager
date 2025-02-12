@@ -1,68 +1,64 @@
 # Access Database Manager
 ## Overview
-Access Database Manager is a specialized tool designed to provide direct access to Microsoft Access databases without requiring Microsoft Access installation. This lightweight application enables users to view, modify, and manage database content through a simple and intuitive graphical interface.
+A simple tool to work with Microsoft Access databases without needing Microsoft Access installed. Perfect for quick database management and viewing.
 
 ## Prerequisites
-- Windows Operating System
-- Python 3.10 (will be prompted to install if not found)
+- Windows PC
+- Python 3.10 (installer will help you set this up if needed)
 
 ## Installation
-### Step 1: Download Files
-Download the following files:
-- `AccessDatabaseManagerInstaller.exe`
-- `loader.exe`
-- `gui.exe`
+1. Download these files:
+  - `AccessDatabaseManagerInstaller.exe`
+  - `loader.exe`
+  - `gui.exe`
 
-### Step 2: Prepare Installation
-Ensure all three files are in the same directory.
+2. Put all files in the same folder
 
-### Step 3: Install
-Double-click `AccessDatabaseManagerInstaller.exe` to begin the installation process.
+3. Run `AccessDatabaseManagerInstaller.exe`
 
-### Step 4: Run the Application
-After installation, you can launch the application from:
-- Desktop shortcut
-- Start Menu
-- `loader.exe` in the installation directory
+4. You can start the app from:
+  - Desktop shortcut
+  - Start Menu
+  - `loader.exe`
 
 ## Test Database
-A sample database `DB.accdb` is included to help you test the application's functionality. This database allows you to explore the app's features without needing your own database.
+We've included `DB.accdb` to help you explore the app. Just open it and start playing around!
 
-## Features
-- **Table Selection:** Easy access to different database tables
-- **Data Viewing:** Clear grid-based display of table contents
-- **Data Modification:** Direct editing of existing entries
-- **New Record Creation:** Simple form for adding rows
-- **Search Functionality:** Filter entries using column-specific search fields
+## What You Can Do
+- Switch between different database tables
+- View all your data in a clean grid
+- Edit entries directly
+- Add new records easily
+- Search and filter data
 
 ## Example Interface
 ![Database Manager Interface](screenshot.png)
 
+## Quick Guide
 ### Viewing Data
-- The main interface displays table data in a grid format
-- Each column represents a database field
-- Each row represents a record
+- Click on tables to see their contents
+- Each row is a record
+- Each column is a field
 
-### Adding New Records
-1. Click "Add New Row" button
-2. Fill in the required information
-3. Ensure unique primary key value
-4. Click "Insert"
+### Adding Records
+1. Click "Add New Row"
+2. Fill in the details
+3. Hit "Insert"
 
-### Modifying Existing Data
-1. Click directly in the cell to modify
-2. Enter new value
-3. Click "Apply Changes"
+### Editing Data
+1. Click on any cell
+2. Change the value
+3. "Apply Changes" saves it
 
-## Important Notes
-- Primary key fields cannot be modified for existing records
-- Ensure primary key values are unique when adding records
-- Changes are saved directly to the database
+## Things to Know
+- Can't change primary key values
+- All changes save immediately
+- Be careful with your data!
 
 ## Troubleshooting
-- Ensure Python 3.10 is installed
-- Check that all required files are in the same directory
-- Verify database file permissions
-
+- Make sure Python is installed
+- All files should be together
+- Check file permissions if something looks weird
+  
 ## Contact
 [Contact me!](https://fourat.pythonanywhere.com/contact.html)

@@ -25,6 +25,9 @@ After installation, you can launch the application from:
 - Start Menu
 - `loader.exe` in the installation directory
 
+## Test Database
+A sample database `DB.accdb` is included to help you test the application's functionality. This database allows you to explore the app's features without needing your own database.
+
 ## Features
 - **Table Selection:** Easy access to different database tables
 - **Data Viewing:** Clear grid-based display of table contents

@@ -59,6 +59,12 @@ I've included `DB.accdb` to help you explore the app. Just open it and start pla
 - Make sure Python is installed
 - All files should be together
 - Check file permissions if something looks weird
-  
+
+## Copyright and License
+
+Copyright (C) 2025 Your Name
+
+This project is licensed under the GNU General Public License v3.0 (GPL-3.0).  
+
 ## Contact
 [Contact me!](https://fourat.pythonanywhere.com/contact.html)

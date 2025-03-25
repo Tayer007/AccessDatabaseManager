@@ -62,7 +62,7 @@ I've included `DB.accdb` to help you explore the app. Just open it and start pla
 
 ## Copyright and License
 
-Copyright (C) 2025 Your Name
+Copyright (C) 2025 Fourat Garrach
 
 This project is licensed under the GNU General Public License v3.0 (GPL-3.0).  
 
